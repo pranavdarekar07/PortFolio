@@ -8,8 +8,8 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/pranv.png") top right no-repeat;
-  background-size: cover;
+  background: #040404 url("../img/pdff_page-0001.jpg") top right no-repeat;
+  background-size: 100% 100%;
   left: 0;
   right: 0;
   top: 0;
